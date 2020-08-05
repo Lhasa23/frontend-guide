@@ -1,0 +1,9 @@
+{
+  "scripts": {
+    "build": "parcel build src/index.html --no-minify --public-url ./"
+  },
+  "name": "frontend-guide",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT"
+}
